@@ -4,7 +4,6 @@ Running this program each time will result in a new fortune.
 
 ## Fortunes in Generator
 
-<<<<<<< HEAD
 * A beautiful, smart, and loving person will be coming into your life.    
 * A dubious friend may be an enemy in camouflage. 
 * A faithful friend is a strong defense.  
@@ -368,7 +367,6 @@ Running this program each time will result in a new fortune.
 * Your success will astonish everyone. 
 * Your talents will be recognized and suitably rewarded.
 * Your work interests can capture the highest status or prestige.
-=======
 *A beautiful, smart, and loving person will be coming into your life.    
 *A dubious friend may be an enemy in camouflage. 
 *A faithful friend is a strong defense.  
@@ -732,4 +730,3 @@ Running this program each time will result in a new fortune.
 *Your success will astonish everyone. 
 *Your talents will be recognized and suitably rewarded.
 *Your work interests can capture the highest status or prestige.
->>>>>>> eb4df59de14ada61279c037da28610745984de56
