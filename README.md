@@ -7,20 +7,20 @@ Running this program each time will result in a new fortune.
 *A beautiful, smart, and loving person will be coming into your life.    
 *A dubious friend may be an enemy in camouflage. 
 *A faithful friend is a strong defense.  
-*A feather in the hand is better than a bird in the air. (2) 
+*A feather in the hand is better than a bird in the air.  
 *A fresh start will put you on your way. 
 *A friend asks only for your time not your money.    
 *A friend is a present you give yourself.    
 *A gambler not only will lose what he has, but also will lose what he doesn’t have.  
 *A golden egg of opportunity falls into your lap this month. 
 *A good friendship is often more important than a passionate romance.    
-*A good time to finish up old tasks. (2) 
+*A good time to finish up old tasks.  
 *A hunch is creativity trying to tell you something. 
 *A lifetime friend shall soon be made.
 *A lifetime of happiness lies ahead of you.
 *A light heart carries you through all the hard times.
-*A new perspective will come with the new year. (2)
-*A person is never to (sic) old to learn. (2)
+*A new perspective will come with the new year. 
+*A person is never to (sic) old to learn. 
 *A person of words and not deeds is like a garden full of weeds.
 *A pleasant surprise is waiting for you.
 *A short pencil is usually better than a long memory any day.
@@ -31,7 +31,7 @@ Running this program each time will result in a new fortune.
 *A truly rich life contains love and art in abundance.
 *Accept something that you cannot change, and you will feel better.
 *Adventure can be real happiness.
-*Advice is like kissing. It costs nothing and is a pleasant thing to do. (2)
+*Advice is like kissing. It costs nothing and is a pleasant thing to do. 
 *Advice, when most needed, is least heeded.
 *All the effort you are making will ultimately pay off.
 *All the troubles you have will pass away very quickly.
@@ -46,7 +46,7 @@ Running this program each time will result in a new fortune.
 *Any decision you have to make tomorrow is a good decision.
 *At the touch of love, everyone becomes a poet.
 *Be careful or you could fall for some tricks today.
-*Beauty in its various forms appeals to you. (2)
+*Beauty in its various forms appeals to you. 
 *Because you demand more from yourself, others respect you deeply.
 *Believe in yourself and others will too.
 *Believe it can be done.
@@ -57,7 +57,7 @@ Running this program each time will result in a new fortune.
 *Change is happening in your life, so go with the flow!
 *Competence like yours is underrated.
 *Congratulations! You are on your way.
-*Could I get some directions to your heart? (2)
+*Could I get some directions to your heart? 
 *Courtesy begins in the home.
 *Courtesy is contagious.
 *Curiosity kills boredom. Nothing can kill curiosity.
@@ -74,7 +74,7 @@ Running this program each time will result in a new fortune.
 *Do not underestimate yourself. Human beings have unlimited potentials.
 *Do you know that the busiest person has the largest amount of time?
 *Don’t be discouraged, because every wrong attempt discarded is another step forward.
-*Don’t confuse recklessness with confidence. (2)
+*Don’t confuse recklessness with confidence. 
 *Don’t expect romantic attachments to be strictly logical or rational.
 *Don’t just spend time. Invest it.
 *Don’t just think, act!
@@ -85,7 +85,7 @@ Running this program each time will result in a new fortune.
 *Each day, compel yourself to do something you would rather not do.
 *Education is the ability to meet life’s situations.
 *Embrace this love relationship you have!
-*Emulate what you admire in your parents. (2)
+*Emulate what you admire in your parents. 
 *Emulate what you respect in your friends.
 *Every flower blooms in its own sweet time.
 *Every wise man started out by asking many questions.
@@ -116,7 +116,7 @@ Running this program each time will result in a new fortune.
 *Happy life is just in front of you.
 *Hard words break no bones, fine words butter no parsnips.
 *Have a beautiful day.
-*He who expects no gratitude shall never be disappointed. (2)
+*He who expects no gratitude shall never be disappointed. 
 *He who knows he has enough is rich.
 *He who knows others is wise. He who knows himself is enlightened.
 *Help! I’m being held prisoner in a chinese bakery!
@@ -130,7 +130,7 @@ Running this program each time will result in a new fortune.
 *If you think you can do a thing or think you can’t do a thing, you’re right.
 *If you wish to see the best in others, show the best of yourself.
 *If your desires are not extravagant, they will be granted.
-*If your desires are not to extravagant they will be granted. (2)
+*If your desires are not to extravagant they will be granted. 
 *If you’re feeling down, try throwing yourself into your work.
 *Imagination rules the world.
 *In order to take, one must first give.
@@ -154,7 +154,7 @@ Running this program each time will result in a new fortune.
 *Love is a warm fire to keep the soul warm.
 *Love is like sweet medicine, good to the last drop.
 *Love lights up the world.
-*Love truth, but pardon error. (2)
+*Love truth, but pardon error. 
 *Man is born to live and not prepared to live.
 *Man’s mind, once stretched by a new idea, never regains it’s original dimensions.
 *Many will travel to hear you speak.
@@ -163,7 +163,7 @@ Running this program each time will result in a new fortune.
 *Nature, time and patience are the three great physicians.
 *Never fear! The end of something marks the start of something new.
 *New ideas could be profitable.
-*New people will bring you new realizations, especially about big issues. (2)
+*New people will bring you new realizations, especially about big issues. 
 *No one can walk backwards into the future.
 *Nothing is more difficult, and therefore more precious, than to be able to decide.
 *Now is a good time to buy stock.
@@ -201,7 +201,7 @@ Running this program each time will result in a new fortune.
 *Society prepares the crime; the criminal commits it.
 *Someone you care about seeks reconciliation.
 *Soon life will become more interesting.
-*Stand tall. Don’t look down upon yourself. (2)
+*Stand tall. Don’t look down upon yourself. 
 *Staying close to home is going to be best for your morale today
 *Stop searching forever, happiness is just next to you.
 *Strong reasons make strong actions.
@@ -225,17 +225,17 @@ Running this program each time will result in a new fortune.
 *The person who will not stand for something will fall for anything.
 *The philosophy of one century is the common sense of the next.
 *The saints are the sinners who keep on trying.
-*The secret to good friends is no secret to you. (2)
+*The secret to good friends is no secret to you. 
 *The small courtesies sweeten life, the greater ennoble it.
 *The smart thing to do is to begin trusting your intuitions.
 *The strong person understands how to withstand substantial loss.
 *The sure way to predict the future is to invent it.
 *The truly generous share, even with the undeserving.
 *The value lies not within any particular thing, but in the desire placed on that thing.
-*The weather is wonderful. (2)
+*The weather is wonderful. 
 *There is a time for caution, but not for fear.
 *There is no mistake so great as that of being always right.
-*There is no wisdom greater than kindness. (2)
+*There is no wisdom greater than kindness. 
 *There is not greater pleasure than seeing your lived (sic) ones prosper.
 *There’s no such thing as an ordinary cat.
 *Things don’t just happen; they happen just.
@@ -262,23 +262,23 @@ Running this program each time will result in a new fortune.
 *You (sic) adventure could lead to happiness.
 *You always bring others happiness.
 *You are a person of another time.
-*You are a talented storyteller. (2)
+*You are a talented storyteller. 
 *You are admired by everyone for your talent and ability.
 *You are almost there.
 *You are busy, but you are happy.
 *You are generous to an extreme and always think of the other fellow.
-*You are going to have some new clothes. (2)
+*You are going to have some new clothes. 
 *You are in good hands this evening.
 *You are interested in higher education, whether material or spiritual.
 *You are modest and courteous.
 *You are never selfish with your advice or your help.
 *You are next in line for promotion in your firm.
 *You are offered the dream of a lifetime. Say yes!
-*You are open-minded and quick to make new friends. (2)
+*You are open-minded and quick to make new friends. 
 *You are solid and dependable.
 *You are soon going to change your present line of work.
 *You are talented in many ways.
-*You are the master of every situation. (2)
+*You are the master of every situation. 
 *You are very expressive and positive in words, act and feeling.
 *You are working hard.
 *You begin to appreciate how important it is to share your personal beliefs.
@@ -288,7 +288,7 @@ Running this program each time will result in a new fortune.
 *You desire recognition and you will find it.
 *You have a deep appreciation of the arts and music.
 *You have a deep interest in all that is artistic.
-*You have a friendly heart and are well admired. (2)
+*You have a friendly heart and are well admired. 
 *You have a shrewd knack for spotting insincerity.
 *You have a yearning for perfection. (3)
 *You have an active mind and a keen imagination.
@@ -303,10 +303,10 @@ Running this program each time will result in a new fortune.
 *You love challenge.
 *You love chinese food.
 *You make people realize that there exist other beauties in the world.
-*You never hesitate to tackle the most difficult problems. (2)
+*You never hesitate to tackle the most difficult problems. 
 *You never know who you touch.
 *You only treasure what you lost.
-*You seek to shield those you love and like the role of provider. (2)
+*You seek to shield those you love and like the role of provider. 
 *You should be able to make money and hold on to it.
 *You should be able to undertake and complete anything.
 *You should pay for this check. Be generous.
@@ -314,7 +314,7 @@ Running this program each time will result in a new fortune.
 *You will always be surrounded by true friends.
 *You will always get what you want through your charm and personality.
 *You will always have good luck in your personal affairs.
-*You will be a great success both in the business world and society. (2)
+*You will be a great success both in the business world and society. 
 *You will be blessed with longevity.
 *You will be pleasantly surprised tonight.
 *You will be sharing great news with all the people you love.
@@ -364,6 +364,6 @@ Running this program each time will result in a new fortune.
 *Your moods signal a period of change.
 *Your quick wits will get you out of a tough situation.
 *Your reputation is your wealth.
-*Your success will astonish everyone. (2)
+*Your success will astonish everyone. 
 *Your talents will be recognized and suitably rewarded.
 *Your work interests can capture the highest status or prestige.
